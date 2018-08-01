@@ -1,0 +1,11 @@
+SyncML framework
+http://etutorials.org/Mobile+devices/mobile+wireless+design/Part+Two+Building+Smart+Client+Applications/Chapter+10+Enterprise+Integration+Through+Synchronization/SyncML+Overview/
+
+context aware computing 
+https://www.slideshare.net/logus2k/contextaware-computing
+
+context aware security
+https://searchsecurity.techtarget.com/definition/context-aware-security
+
+context aware sensor networks
+https://www.hindawi.com/journals/js/2015/621326/
