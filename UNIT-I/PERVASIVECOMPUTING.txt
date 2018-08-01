@@ -1,0 +1,17 @@
+pervasive defination
+principles of pervasive
+design & implementation problems 
+https://www.slideshare.net/anshumanbiswal/pervasive-computing-41310241
+https://www.slideshare.net/vijsahana/pervasive-computing-13644454
+
+
+Pervasive Computing- Characteristics, 
+interaction transparency, 
+context aware, 
+automated experience capture
+https://www.slideshare.net/mailpriti/ubiquitous-computing-56256752
+https://slideplayer.com/slide/4797856/
+
+
+pervasive computing architecture ,protocol and issues
+https://www.slideshare.net/sokphearin/pervasive-computing-and-its-security-issues
